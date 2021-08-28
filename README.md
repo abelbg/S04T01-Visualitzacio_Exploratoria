@@ -1,7 +1,6 @@
-# S04T01-Visualitzacio_Exploratoria
-## IT Academy - Data Science amb Python. Sprint 4, tasca 1: Visualització exploratòria del dataset DelayedFlights amb Matplotlib.
+# IT Academy - Data Science amb Python. Sprint 4, tasca 1: Visualització exploratòria del dataset DelayedFlights amb Matplotlib.
 
-### Exercici 1
+## Exercici 1
 Resumeix gràficament el data set DelayedFlights.csv
 
 Crea almenys una visualització per:
@@ -12,8 +11,8 @@ Crea almenys una visualització per:
 - Tres variables (ArrDelay, DepDelay i UniqueCarrier)
 - Més de tres variables (ArrDelay, DepDelay, AirTime i UniqueCarrier).
 
-### Exercici 2
+## Exercici 2
 Exporta els gràfics com imatges o com html.
 
-### Exercici 3
+## Exercici 3
 Integra les visualitzacions gràfiques, en la tasca 5, del Sprint 3.
